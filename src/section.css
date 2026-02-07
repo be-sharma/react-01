@@ -1,0 +1,32 @@
+
+.section{
+    height: 35rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.lsection img{
+    margin-top: 2rem;
+    height: 30rem;
+    width: 35rem;
+    }
+
+.rsection{
+    margin-left: 4rem;
+   gap: 2rem;
+   color: white;
+   align-content: center;
+   justify-content: center;
+}    
+
+.rsection p:hover{
+   color: yellow;
+   transform-style: preserve-3d;
+}
+
+ .dd{
+    height: 50px;
+    width: 50px;
+    background-color: #f0dada00;
+    border-radius: 20%;
+}
